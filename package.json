@@ -1,0 +1,13 @@
+{
+  "name": "notehub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "packageManager": "yarn@4.6.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
